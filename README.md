@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Prediction Dashboard
 
 A full-stack application featuring a machine learning pipeline backend and an interactive frontend dashboard.
